@@ -3,6 +3,7 @@
 I am **Nichollas**, a **Systems Analysis and Development student** from **Rio de Janeiro, Brazil**.
 
 ## Technologies
+
 <h3> <img src="https://skillicons.dev/icons?i=c,python,html,css,linux,git" /> </h3> 
 
 
@@ -18,10 +19,16 @@ Terminal-based word guessing game developed in **C**, featuring a **scoring syst
 • **[Data Management System in Python (CRUD)]**\
 Currently in development. 
 
-##
+## Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nichollasbraz&theme=github-dark&bg_color=0d1117&color=8b949e&line=6e7681&point=c9d1d9&area=true&area_color=161b22&hide_border=true&hide_title=true&hide_legend=true&custom_title="/>
+</p>
+
+<p> 
+<a href="mailto:nichollass.fernandes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=8b949e">
+</a>
 </p>
 
 ##
