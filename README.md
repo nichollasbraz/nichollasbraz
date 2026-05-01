@@ -25,12 +25,12 @@ Currently in development.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nichollasbraz&theme=github-dark&bg_color=0d1117&color=8b949e&line=6e7681&point=c9d1d9&area=true&area_color=161b22&hide_border=true&hide_title=true&hide_legend=true&custom_title="/>
 </p>
 
+###### "Computers are like humans — they do everything except think." (NEUMANN, von John. 1903–1957)
+
+##
+
 <p> 
 <a href="mailto:nichollass.fernandes@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=8b949e">
 </a>
 </p>
-
-##
-
-###### "Computers are like humans — they do everything except think." (NEUMANN, von John. 1903–1957).
