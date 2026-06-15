@@ -4,10 +4,10 @@ I am **Nichollas**, a **Systems Analysis and Development student** from **Rio de
 
 ## Technologies
 
-<h3> <img src="https://skillicons.dev/icons?i=c,python,html,css,linux,git" /> </h3> 
+<h3> <img src="https://skillicons.dev/icons?i=c,cs,python,html,css,linux,git" /> </h3> 
 
 
-• Practical experience with **Python** and **C**, working on algorithm implementation, data structures, and problem-solving.\
+• Practical experience with **Python**, **C#** and **C**, working on algorithm implementation, data structures, and problem-solving.\
 • Knowledge of **HTML** and **CSS** for web development.\
 • Familiar with **Linux** environments **(Ubuntu)**, compiling programs using **GCC**, and managing code with **Git** and **GitHub.**\
 • **Fluent** in **English** and able to read and understand technical documentation.
